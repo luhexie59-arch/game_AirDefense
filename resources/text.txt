@@ -1,1 +1,5 @@
+Audio:
+music1.ogg: Arise, Great Country! - Baltic Symphony Orchestra
+music2.mp3: 和平使命(Mission for Peace)
 
+Images: https://www.iconfont.cn/
