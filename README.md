@@ -7,3 +7,10 @@
 - Click space/left-click to launch a missile and intercept a plane.
 - Bombers will appear at set intervals.
 - When no more missiles are left, or struck by a bomb, the game ends.
+
+---
+
+### Screenshots
+![img1](https://raw.githubusercontent.com/luhexie59-arch/game_AirDefense/refs/heads/main/resources/screenshot1.png)
+
+![img2](https://raw.githubusercontent.com/luhexie59-arch/game_AirDefense/refs/heads/main/resources/screenshot2.png)
