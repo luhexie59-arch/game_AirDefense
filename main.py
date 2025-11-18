@@ -229,5 +229,3 @@ while (not done) and game_over:
     clock.tick(0)
 
 pygame.quit()
-
-
